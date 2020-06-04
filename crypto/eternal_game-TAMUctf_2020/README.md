@@ -1,4 +1,4 @@
-# Eternal Game (Crypto) (338 pts)
+# Eternal Game (TAMUctf2020)
 
 ## Challenge description
 
