@@ -3,7 +3,7 @@
 
 ## Treasury #1
 We start off by opening the given URL, we get information about some books :
-  
+
 ![Treasury Root Page](img/Treasury-Root-Page.png "Treasury Root Page")
 
 We open the Network tab in the developer tools and we notice that a request was made to <https://poems.asisctf.com/books.php?type=list>, with the initiator being this [treasury.js](https://poems.asisctf.com/treasury.js) file :
