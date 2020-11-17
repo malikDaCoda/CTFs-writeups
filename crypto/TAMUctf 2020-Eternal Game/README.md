@@ -2,7 +2,8 @@
 
 ## Challenge description
 
-> No one has ever won my game except me! 
+> No one has ever won my game except me!
+
 > nc challenges.tamuctf.com 8812
 
 ## The Eternal Game
