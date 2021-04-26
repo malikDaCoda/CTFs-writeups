@@ -73,3 +73,4 @@ p.send(payload)
 p.interactive()
 ```
 - `./solve.py BIN=main` :D
+- **flag :** `gigem{4u70-10aD_Un5aF3_p47h}`
