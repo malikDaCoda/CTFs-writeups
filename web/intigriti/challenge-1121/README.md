@@ -262,7 +262,7 @@ Let's check out the HTML source :
 </html>
 ```
 
-There's a good bunch of JavaScript script tags and we can notice that the site is using the Vue.js framework, and it's changing the default delimiters for client-side templates to (`{{` and `}}`) to `v-{{` and `}}`.  
+There's a good bunch of JavaScript script tags and we can notice that the site is using the Vue.js framework, and it's changing the default delimiters for client-side templates from `{{` and `}}` to `v-{{` and `}}`.  
 We can also notice that our input gets rendered by Vue in this tag :  
 
 ```html
